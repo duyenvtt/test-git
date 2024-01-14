@@ -1,0 +1,13 @@
+Index: .idea/new file for new branch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>hello I'm Duyen. I'm creating new branch to test new file\r\n
+===================================================================
+diff --git a/.idea/new file for new branch b/.idea/new file for new branch
+--- a/.idea/new file for new branch	
++++ b/.idea/new file for new branch	
+@@ -1,1 +1,4 @@
+ hello I'm Duyen. I'm creating new branch to test new file
++g
++
++cheng content or occoo
