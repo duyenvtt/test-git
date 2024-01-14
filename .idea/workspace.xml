@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d06a915-b66b-42b6-97dc-bae835afe143" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/duyentest" beforeDir="false" afterPath="$PROJECT_DIR$/duyentest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/new file for new branch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "add-new-file",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -58,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705240679292</updated>
-      <workItem from="1705240680347" duration="2117000" />
+      <workItem from="1705240680347" duration="2817000" />
     </task>
     <servers />
   </component>
